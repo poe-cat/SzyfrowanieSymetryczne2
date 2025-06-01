@@ -1,0 +1,12 @@
+
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <RootNamespace>SymmetricEncryptionApp</RootNamespace>
+    <AssemblyName>SymmetricEncryptionApp</AssemblyName>
+  </PropertyGroup>
+
+</Project>
