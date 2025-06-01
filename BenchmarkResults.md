@@ -1,4 +1,4 @@
-# Benchmark Results – SymmetricEncryptionApp
+# Benchmark Results
 
 |                       | AES (CSP) 128 bit | AES (CSP) 256 bit | AES Managed 128 bit | AES Managed 256 bit | Rijndael Managed 128 bit | Rijndael Managed 256 bit | DES 56 bit | 3DES 168 bit |
 |-----------------------|------------------|-------------------|---------------------|----------------------|---------------------------|---------------------------|------------|---------------|
